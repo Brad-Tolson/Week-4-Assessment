@@ -5,11 +5,11 @@ const compliments = [
 ];
 
 let fortunes = [
-  "Fortune 1",
-  "Fortune 2",
-  "Fortune 3",
-  "Fortune 4",
-  "Fortune 5"
+  "All your hard work will soon pay off.",
+  "Chance favors those in motion.",
+  "Fortune Not Found: Abort, Retry, Ignore?",
+  "It takes courage to admit fault.",
+  "There’s no such thing as an ordinary cat."
 ];
 
 const getCompliment = (req, res) => {
